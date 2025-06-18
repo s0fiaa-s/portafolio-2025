@@ -1,0 +1,32 @@
+.seccion1 {
+    width: 1440px;
+    height: 750px;
+    border: 1px solid black;
+}
+
+.titulo {
+    width: 600px;
+    height: 208px;
+    margin-left: 120px;
+    margin-top: 200px;
+    font-size: 40px;
+    color: black;
+}
+
+.introduccion {
+    width: 600px;
+    height: 50px;
+    font-size: 14px;
+    margin-left: 80px;
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    color: gray;
+}
+
+.n {
+    width: 400px;
+    height: 400px;
+    margin-top: -300px; 
+    margin-left: 800px;
+}
