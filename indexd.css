@@ -241,3 +241,21 @@
    font-size: 16px;
    color: #71717A;
 }
+
+.pri {
+  cursor: pointer; /* Cambia el cursor a mano */
+  color: #722f37; 
+  text-decoration: none; /* Elimina el subrayado */
+  
+    width: 98px;
+    height: 24px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 33px;
+    margin-left: 45px;
+}
+
+.pri:hover {
+  text-decoration: none; /* Opcional: puedes añadir otro efecto hover */
+  color: #333; /* Color oscuro al pasar el mouse */
+}

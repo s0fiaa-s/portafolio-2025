@@ -53,7 +53,7 @@
 
 .pro {
   cursor: pointer; /* Cambia el cursor a mano */
-  color: inherit; /* Mantiene el color del texto normal */
+  color: #722f37;
   text-decoration: none; /* Elimina el subrayado */
   
     width: 98px;
