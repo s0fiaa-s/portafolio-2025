@@ -1,0 +1,151 @@
+.seccion3 {
+   width: 1440px;
+   height: 1300px;
+   border: 2px solid black;
+   background-color: #722F37;
+}
+
+.titulo3 {
+   width: 1216px;
+   height: 96px;
+   margin-top: 60px;
+   margin-left: 560px;
+   font-size: 48px;
+   font-weight: 800;
+   color: #FFFFFF;
+   display: flex;
+   flex-direction: column;
+   flex-direction: row;
+}
+
+.Figma1 {
+   width: 1216px;
+   height: 364px;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+
+.fg1 {
+   width: 330px;
+   height: 247px;
+   margin-top: 30px;
+   border-radius: 18px;
+   border: 1px solid white;
+}
+
+.numero1 {
+   width: 582px;
+   height: 56px;
+   margin-left: 600px;
+   margin-top: -280px;
+   font-weight: 800;
+   font-size: 48px;
+   color: #FFFFFF;
+}
+.nombre1 {
+   width: 582px;
+   height: 40px;
+   margin-left: 600px;
+   margin-top: 20px;
+   font-weight: 700;
+   font-size: 32px;
+   color: #FFFFFF;
+}
+.descri1 {
+   width: 582px;
+   height: 96px;
+   margin-left: 600px;
+   margin-top: 40px;
+   font-weight: 400;
+   font-size: 16px;
+   color: #71717A;
+}
+
+.VSC2 {
+   width: 1216px;
+   height: 364px;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+.vc {
+   width: 330px;
+   height: 197px;
+   margin-top: 30px;
+   border-radius: 18px;
+   border: 1px solid white;
+}
+
+.numero2 {
+   width: 582px;
+   height: 56px;
+   margin-left: 600px;
+   margin-top: -280px;
+   font-weight: 800;
+   font-size: 48px;
+   color: #FFFFFF;
+}
+
+.nombre2 {
+   width: 582px;
+   height: 40px;
+   margin-left: 600px;
+   margin-top: 20px;
+   font-weight: 700;
+   font-size: 32px;
+   color: #FFFFFF;
+}
+
+.descri2 {
+   width: 582px;
+   height: 96px;
+   margin-left: 600px;
+   margin-top: 40px;
+   font-weight: 400;
+   font-size: 16px;
+   color: #71717A;
+}
+
+.CSSyHTML {
+   width: 1216px;
+   height: 364px;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+
+.hc {
+   width: 330px;
+   height: 197px;
+   margin-top: 30px;
+   border-radius: 18px;
+   
+}
+
+.numero3 {
+   width: 582px;
+   height: 56px;
+   margin-left: 600px;
+   margin-top: -280px;
+   font-weight: 800;
+   font-size: 48px;
+   color: #FFFFFF;
+}
+
+.nombre3 {
+   width: 582px;
+   height: 40px;
+   margin-left: 600px;
+   margin-top: 20px;
+   font-weight: 700;
+   font-size: 32px;
+   color: #FFFFFF;
+}
+
+.descri3 {
+   width: 582px;
+   height: 96px;
+   margin-left: 600px;
+   margin-top: 40px;
+   font-weight: 400;
+   font-size: 16px;
+   color: #71717A;
+}

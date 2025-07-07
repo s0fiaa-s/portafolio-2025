@@ -1,6 +1,6 @@
 .seccion1 {
     width: 1440px;
-    height: 750px;
+    height: 720px;
     border: 1px solid black;
 }
 
@@ -15,18 +15,29 @@
 
 .introduccion {
     width: 600px;
-    height: 50px;
+    height: 96px;
     font-size: 14px;
     margin-left: 80px;
-    margin-top: 20px;
+    margin-top: -50px;
     display: flex;
     text-align: center;
     color: gray;
 }
 
+.Facebook, .Reddit, .X, .Discord {
+  margin-left: 120px;
+  margin-top: -880px; 
+  width: 56px;
+  height: 56px;
+}
+
+.Facebook {
+    margin-left: 2000px;
+}
+
 .n {
-    width: 400px;
-    height: 400px;
-    margin-top: -300px; 
-    margin-left: 800px;
+   width: 610px;
+   height: 610px;
+   margin-left: 800px;
+   margin-top: -430px;
 }
